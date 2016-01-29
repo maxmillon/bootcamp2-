@@ -1,0 +1,86 @@
+.container-fluid{
+  background-color:yellow;
+  padding:80px;
+}
+
+
+.col-md-4{
+  background-color:green;
+  padding:20px
+  height:100px;
+}
+
+
+
+.row{
+paddin:50px;
+
+}
+
+
+
+.col-md-12{
+  background-color:blue;
+  padding:20;
+
+}
+
+.col-md-9{
+  background-color:purple;
+  padding:20;
+  height:100px;
+}
+
+.col-md-3{
+  background-color:red;
+  padding:20px;
+  height:100px;
+
+}
+
+.col-md-6{
+  background-color:orange;
+}
+/*===========HEADER=========*/
+
+.header{
+  color:orange;
+  background-color:purple;
+  height:128px;
+}
+
+.nav{
+  background-color:orange;
+  height:52px;
+}
+
+.promo-1{
+  height:128px;
+  padding:20px;
+}
+
+.promo-2{
+  height:128px;
+}
+
+.promo-3{
+  height:128px;
+}
+
+.promo-4{
+  height:128px;
+}
+
+.aside{
+  background-color:green;
+}
+
+
+
+
+@media screen and (max-width:400px){
+  .col-md-12 {
+    background-color:purple;
+  }
+
+}
